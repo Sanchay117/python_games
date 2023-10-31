@@ -1,2 +1,3 @@
-# tic_tac_toe_python
+# Games in Python
 tic tac toe in python
+the card game WAR in python
